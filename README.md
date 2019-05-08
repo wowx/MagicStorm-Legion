@@ -18,7 +18,7 @@ It is fully based on *TrinityCore*, with upgrades like :
     - Eye Of Azshara
     - NeltharionsLair
     - TheArcway
-    - TheNighthold(4/6)
+    - The Nighthold (4/10)
     - Mardum (DH start zone)
     - Emerald Nightmare (2/7)
     - Tomb of Sargeras (1/9)
