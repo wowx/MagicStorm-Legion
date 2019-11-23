@@ -343,7 +343,7 @@ void AddBrokenIslesScripts()
     AddSC_nythendra();
     AddSC_ilgynoth();
     AddSC_elerethe_renferal();
-    AddSC_ursoc();
+    AddSC_boss_ursoc();
     AddSC_boss_dragons_of_nightmare();
     AddSC_boss_cenarius();
     AddSC_xavius();
